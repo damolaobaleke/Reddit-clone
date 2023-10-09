@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WaveHealth</string>
+    <string name="image_thumbnail_content_description">image thumbnail</string>
+    <string name="textview">TextView</string>
+    <string name="background_circle">background_circle</string>
+    <string name="comments_text">Comments</string>
+    <string name="all_comments_loaded">All comments loaded</string>
+    <string name="no_listings_to_display">No listings to display</string>
+    <string name="load_more">Load more</string>
+</resources>
